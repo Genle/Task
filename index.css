@@ -1,0 +1,42 @@
+#login{
+	width: 500px;
+	height: 400px;
+	background-color: #404040;
+	margin: auto;
+
+}
+
+form{
+	position: relative;
+	/*margin-top: 25%;*/
+	top: 20%;
+
+}
+
+#login input{
+	margin-left: 4%;
+	width: 90%;
+	height: 40px;
+	margin-top: 20px;
+}
+
+#login button{
+/*	margin-left: 2%;*/
+	border-style: none;
+	width: 45%;
+	height: 40px;
+	background-color: #6DBDD6;
+}
+
+.login-button{
+	margin-top: 10px;
+	margin-left: 4%;
+}
+
+/*
+	#404040
+#6DBDD6
+#B71427
+#FFE658
+
+*/
