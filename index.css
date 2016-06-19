@@ -1,15 +1,29 @@
+body{
+	background-color: #FFE658; 
+}
+
 #login{
 	width: 500px;
 	height: 400px;
 	background-color: #404040;
 	margin: auto;
-
+	transform: translateY(40%);
 }
 
+#login h2{
+	font-family: monospace;
+	margin-bottom: 0;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 20px;
+
+}
 form{
 	position: relative;
 	/*margin-top: 25%;*/
-	top: 20%;
+	top: 17%;
 
 }
 
